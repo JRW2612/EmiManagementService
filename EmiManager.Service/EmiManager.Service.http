@@ -1,0 +1,6 @@
+@EmiManager.Service_HostAddress = http://localhost:5005
+
+GET {{EmiManager.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
