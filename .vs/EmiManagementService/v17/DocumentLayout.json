@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|d:\\coding_practise\\interview_prep_2025\\emimanagementservice\\emimanager.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|solutionrelative:emimanager.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|d:\\coding_practise\\interview_prep_2025\\emimanagementservice\\emimanager.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|solutionrelative:emimanager.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|d:\\coding_practise\\interview_prep_2025\\emimanagementservice\\emimanager.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F45E6439-13D8-4663-86BA-BDD4A7C48105}|EmiManager.Service\\EmiManager.Service.csproj|solutionrelative:emimanager.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802B3814-5BE8-4B0B-9DEF-DE6E48954E46}|EmiManager.Repository\\EmiManager.Repository.csproj|d:\\coding_practise\\interview_prep_2025\\emimanagementservice\\emimanager.repository\\models\\emiapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802B3814-5BE8-4B0B-9DEF-DE6E48954E46}|EmiManager.Repository\\EmiManager.Repository.csproj|solutionrelative:emimanager.repository\\models\\emiapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +37,57 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmiManager.Service\\appsettings.Development.json",
+              "ToolTip": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\appsettings.Development.json",
+              "RelativeToolTip": "EmiManager.Service\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T14:48:55.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "EmiManager.Service\\appsettings.json",
+              "ToolTip": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\appsettings.json",
+              "RelativeToolTip": "EmiManager.Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T14:48:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMIApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Repository\\Models\\EMIApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "EmiManager.Repository\\Models\\EMIApplicationDBContext.cs",
+              "ToolTip": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Repository\\Models\\EMIApplicationDBContext.cs",
+              "RelativeToolTip": "EmiManager.Repository\\Models\\EMIApplicationDBContext.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:42:27.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\Program.cs",
               "RelativeDocumentMoniker": "EmiManager.Service\\Program.cs",
               "ToolTip": "D:\\Coding_Practise\\Interview_Prep_2025\\EmiManagementService\\EmiManager.Service\\Program.cs",
               "RelativeToolTip": "EmiManager.Service\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T04:18:00.055Z",
               "EditorCaption": ""

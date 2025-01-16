@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmiManager.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2b181c14b2acdff0664ea5203c0d5db68a2a063")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c06c6d80ee06ead84c9f3b1b987db14edf274b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmiManager.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmiManager.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
